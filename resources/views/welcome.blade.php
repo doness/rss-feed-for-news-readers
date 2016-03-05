@@ -34,6 +34,7 @@
                 font-size: 96px;
             }
         </style>
+        <link rel="alternate" type="application/rss+xml" title="My blog" href="{{ url('feed') }}" />
     </head>
     <body>
         <div class="container">
